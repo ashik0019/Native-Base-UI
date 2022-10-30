@@ -1,9 +1,10 @@
-import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
+import {StyleSheet, Text, View} from 'react-native';
+import React from 'react';
 
 const App = () => {
   return (
     <View>
+      <Text>Native Base Theming. </Text>
       <Text>Native Base Theming. </Text>
     </View>
   )
